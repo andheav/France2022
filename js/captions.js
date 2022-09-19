@@ -1,6 +1,6 @@
 var captions = {
   "France2022-1.jpg": {
-    caption: "First official picture from the trip! On our way to the airport.",
+    caption: "Packed and ready to drive to Chicago!",
   },
   "France2022-2.jpg": {
     caption: "",
@@ -16,27 +16,27 @@ var captions = {
   },
   "France2022-6.jpg": {
     caption:
-      "8 hours later, we touched down in Paris and made it through Customs! It was about 10 A.M. by this point, so we were pretty hungry.",
+      "8 hours later, we touched down in Paris and made it through customs! It was about 10 A.M. by this point, so we were pretty hungry",
   },
   "France2022-7.jpg": {
     caption:
-      "First stop, boulangerie (bakery). So many delicious options! We sat outside and ate our pastries, then wandered in the direction of our AirBnB.",
+      "First stop, boulangerie (bakery). So many delicious options! We sat outside and ate our pastries, then wandered in the direction of our AirBnB",
   },
   "France2022-8.jpg": {
     caption: "",
   },
   "France2022-9.jpg": {
     caption:
-      "This is our first AirBnB in Paris! It was this awesome little studio with a really cool view.",
+      "This was our first AirBnB in Paris! It was this awesome little studio with a really cool view",
   },
   "France2022-10.jpg": {
-    caption: "",
+    caption: "We were on the 5th floor (no elevators!)",
   },
   "France2022-11.jpg": {
-    caption: "And we're off to do more exploring!",
+    caption: "And we're off to do some exploring!",
   },
   "France2022-12.jpg": {
-    caption: "",
+    caption: "Easton reppin' the Kodak film shirt",
   },
   "France2022-13.jpg": {
     caption: "",
@@ -51,19 +51,21 @@ var captions = {
     caption: "",
   },
   "France2022-17.jpg": {
-    caption: "",
+    caption: "First picture by the Seine!",
   },
   "France2022-18.jpg": {
     caption: "",
   },
   "France2022-19.jpg": {
-    caption: "",
+    caption:
+      "We really should have bought this shirt. What a missed opportunity (Mona Lisa dabbing)!",
   },
   "France2022-20.jpg": {
-    caption: "",
+    caption: "Pictures in front of the Notre Dame",
   },
   "France2022-21.jpg": {
-    caption: "",
+    caption:
+      "Pictures in front of the Notre Dame. It was blocked off due to fire",
   },
   "France2022-22.jpg": {
     caption: "",
@@ -75,7 +77,7 @@ var captions = {
     caption: "",
   },
   "France2022-25.jpg": {
-    caption: "",
+    caption: "After quite a bit of walking, we arrived at the Louvre.",
   },
   "France2022-26.jpg": {
     caption: "",
@@ -87,19 +89,21 @@ var captions = {
     caption: "",
   },
   "France2022-29.jpg": {
-    caption: "",
+    caption:
+      "We didn't go into the actual museum but appreciated the architecture from the outside. Lots of good people watching too!",
   },
   "France2022-30.jpg": {
-    caption: "",
+    caption:
+      "We walked down to the Champs-Élysées and arrived at the Arc de Triomphe",
   },
   "France2022-31.jpg": {
-    caption: "",
+    caption: "Traffic was a free-for-all!",
   },
   "France2022-32.jpg": {
     caption: "",
   },
   "France2022-33.jpg": {
-    caption: "",
+    caption: "Easton being goofy",
   },
   "France2022-34.jpg": {
     caption: "",
@@ -111,7 +115,7 @@ var captions = {
     caption: "",
   },
   "France2022-37.jpg": {
-    caption: "",
+    caption: "First view of the Eiffel Tower!",
   },
   "France2022-38.jpg": {
     caption: "",
@@ -126,7 +130,7 @@ var captions = {
     caption: "",
   },
   "France2022-42.jpg": {
-    caption: "",
+    caption: "We just had to",
   },
   "France2022-43.jpg": {
     caption: "",
@@ -138,43 +142,46 @@ var captions = {
     caption: "",
   },
   "France2022-46.jpg": {
-    caption: "",
+    caption: "Impromptu dance circle",
   },
   "France2022-47.jpg": {
-    caption: "",
+    caption: "Happy Birthday?",
   },
   "France2022-48.jpg": {
-    caption: "",
+    caption: "The tower was much bigger up close!",
   },
   "France2022-49.jpg": {
     caption: "",
   },
   "France2022-50.jpg": {
-    caption: "",
+    caption:
+      "After a long day of walking, we headed back to the AirBnB and went out for dinner",
   },
   "France2022-51.jpg": {
     caption: "",
   },
   "France2022-52.jpg": {
-    caption: "",
+    caption:
+      "Our AirBnB was located in a predominantly Asian neighborhood, so we jumped at the chance to have some great ramen!",
   },
   "France2022-53.jpg": {
-    caption: "",
+    caption:
+      "Of course we had to get dessert... nutella crêpes. After this, we headed back to the AirBnB to get some much needed rest",
   },
   "France2022-54.jpg": {
-    caption: "",
+    caption: "(Day 2) View from our AirBnB the next morning",
   },
   "France2022-55.jpg": {
-    caption: "",
+    caption: "Flat white for Easton and dirty chair for Andrew",
   },
   "France2022-56.jpg": {
     caption: "",
   },
   "France2022-57.jpg": {
-    caption: "",
+    caption: "Lots of cute dogs...",
   },
   "France2022-58.jpg": {
-    caption: "",
+    caption: "...and some not-so-cute ones",
   },
   "France2022-59.jpg": {
     caption: "",
@@ -195,16 +202,17 @@ var captions = {
     caption: "",
   },
   "France2022-65.jpg": {
-    caption: "",
+    caption: "Easton found his favorite fruit, figs!",
   },
   "France2022-66.jpg": {
     caption: "",
   },
   "France2022-67.jpg": {
-    caption: "",
+    caption:
+      "Andrew checking out the fromagerie (cheese market) at Le Marché des Enfants Rouges (Market of the Red Kids)",
   },
   "France2022-68.jpg": {
-    caption: "",
+    caption: "BIG door!",
   },
   "France2022-69.jpg": {
     caption: "",
@@ -216,13 +224,13 @@ var captions = {
     caption: "",
   },
   "France2022-72.jpg": {
-    caption: "",
+    caption: "Time for lunch",
   },
   "France2022-73.jpg": {
-    caption: "",
+    caption: "Happy Birthday, Andrew!",
   },
   "France2022-74.jpg": {
-    caption: "",
+    caption: "Carbonara and margherita!",
   },
   "France2022-75.jpg": {
     caption: "",
@@ -231,22 +239,22 @@ var captions = {
     caption: "",
   },
   "France2022-77.jpg": {
-    caption: "",
+    caption: "Chillin' at Le Jardin du Luxembourg (Luxembourg Garden)",
   },
   "France2022-78.jpg": {
     caption: "",
   },
   "France2022-79.jpg": {
-    caption: "",
+    caption: "Grandpa chillin'",
   },
   "France2022-80.jpg": {
     caption: "",
   },
   "France2022-81.jpg": {
-    caption: "",
+    caption: "Some casual chess",
   },
   "France2022-82.jpg": {
-    caption: "",
+    caption: "Some more intense timed chess",
   },
   "France2022-83.jpg": {
     caption: "",
@@ -255,16 +263,17 @@ var captions = {
     caption: "",
   },
   "France2022-85.jpg": {
-    caption: "",
+    caption:
+      "Children were renting sailboats from vendors and the wind would blow them around the fountain",
   },
   "France2022-86.jpg": {
     caption: "",
   },
   "France2022-87.jpg": {
-    caption: "",
+    caption: "A lot of amazing pop-up artists",
   },
   "France2022-88.jpg": {
-    caption: "",
+    caption: "Le Palais du Luxembourg (Palace of Luxembourg)",
   },
   "France2022-89.jpg": {
     caption: "",
@@ -276,46 +285,48 @@ var captions = {
     caption: "",
   },
   "France2022-92.jpg": {
-    caption: "",
+    caption: "Taking the metro! It was a breeze",
   },
   "France2022-93.jpg": {
     caption: "",
   },
   "France2022-94.jpg": {
-    caption: "",
+    caption: "Andrew's birthday dinner!",
   },
   "France2022-95.jpg": {
-    caption: "",
+    caption: "A virgin piña colada for Easton and a moscow mule for Andrew",
   },
   "France2022-96.jpg": {
-    caption: "",
+    caption:
+      "Fish burger for Easton and chicken for Andrew. This night was the night we discovered how the French eat very late! Everyone typically has drinks from 7-9 P.M. and then starts ordering food around 9-9:30 P.M.",
   },
   "France2022-97.jpg": {
-    caption: "",
+    caption:
+      "Birthday desert! We didn't actually mean to get two... The waitress didn't speak English and Andrew might've said \"that's two\" instead of \"that's it\" in French... A funny learning experience",
   },
   "France2022-98.jpg": {
-    caption: "",
+    caption: "Andrew might've been on his third drink...",
   },
   "France2022-99.jpg": {
     caption: "",
   },
   "France2022-100.jpg": {
-    caption: "",
+    caption: "Courtyard for our AirBnB",
   },
   "France2022-101.jpg": {
-    caption: "",
+    caption: "Third floor was our AirBnB",
   },
   "France2022-102.jpg": {
-    caption: "",
+    caption: "(Day 3) The entrance to our building",
   },
   "France2022-103.jpg": {
-    caption: "",
+    caption: "We're off to the train station this morning to head to Colmar!",
   },
   "France2022-104.jpg": {
     caption: "",
   },
   "France2022-105.jpg": {
-    caption: "",
+    caption: "Quick stop at the boulangerie before the train",
   },
   "France2022-106.jpg": {
     caption: "",
@@ -327,22 +338,23 @@ var captions = {
     caption: "",
   },
   "France2022-109.jpg": {
-    caption: "",
+    caption: "Gare de l'Est (East Train Station)",
   },
   "France2022-110.jpg": {
-    caption: "",
+    caption: "Was a liiiiittle busy...",
   },
   "France2022-111.jpg": {
     caption: "",
   },
   "France2022-112.jpg": {
-    caption: "",
+    caption:
+      "These are high speed trains! We're traveling at about 200mph in this picture",
   },
   "France2022-113.jpg": {
     caption: "",
   },
   "France2022-114.jpg": {
-    caption: "",
+    caption: "Deboarding at Colmar",
   },
   "France2022-115.jpg": {
     caption: "",
@@ -351,16 +363,16 @@ var captions = {
     caption: "",
   },
   "France2022-117.jpg": {
-    caption: "",
+    caption: "Walking into the heart of Colmar...",
   },
   "France2022-118.jpg": {
-    caption: "",
+    caption: "The view from our AirBnB",
   },
   "France2022-119.jpg": {
     caption: "",
   },
   "France2022-120.jpg": {
-    caption: "",
+    caption: "A cool stream that flowed through the city",
   },
   "France2022-121.jpg": {
     caption: "",
@@ -369,7 +381,8 @@ var captions = {
     caption: "",
   },
   "France2022-123.jpg": {
-    caption: "",
+    caption:
+      "Andrew was pretty ecstatic! He had wanted to visit Colmar ever since he first saw pictures of it in middle school. It was so beautiful!",
   },
   "France2022-124.jpg": {
     caption: "",
@@ -381,7 +394,8 @@ var captions = {
     caption: "",
   },
   "France2022-127.jpg": {
-    caption: "",
+    caption:
+      "We eventually made our way to La Petite Venise (Little Venice) in downtown Colmar",
   },
   "France2022-128.jpg": {
     caption: "",
@@ -390,13 +404,13 @@ var captions = {
     caption: "",
   },
   "France2022-130.jpg": {
-    caption: "",
+    caption: "There were even gondolas giving rides along the canal",
   },
   "France2022-131.jpg": {
     caption: "",
   },
   "France2022-132.jpg": {
-    caption: "",
+    caption: "Stopped for some regional wine and a snack",
   },
   "France2022-133.jpg": {
     caption: "",
@@ -405,7 +419,8 @@ var captions = {
     caption: "",
   },
   "France2022-135.jpg": {
-    caption: "",
+    caption:
+      "Colmar has a very popular regional dish called tarte flambée. It's like a very thin crust pizza. It was delicious and nutritious!",
   },
   "France2022-136.jpg": {
     caption: "",
@@ -420,31 +435,34 @@ var captions = {
     caption: "",
   },
   "France2022-140.jpg": {
-    caption: "",
+    caption:
+      "Further into the village. Colmar is very close to the German border, so it has a lot of German influence in the architecture, cuisine, and customs",
   },
   "France2022-141.jpg": {
-    caption: "",
+    caption: "Pre-dinner drinks!",
   },
   "France2022-142.jpg": {
-    caption: "",
+    caption:
+      "Andrew's meal on the top, Easton's meal on the bottom. Andrew had a very traditional regional dish called choucroute! It was multiple different types of meat and sausages on a bed of sauerkraut. Easton had a salad and a regional dish called spaetzle with gruyère. ",
   },
   "France2022-143.jpg": {
     caption: "",
   },
   "France2022-144.jpg": {
-    caption: "",
+    caption: "(Day 4) We woke up with baguettes on our mind...",
   },
   "France2022-145.jpg": {
     caption: "",
   },
   "France2022-146.jpg": {
-    caption: "",
+    caption: "We found 'em!",
   },
   "France2022-147.jpg": {
-    caption: "",
+    caption:
+      "By this point, Andrew's breakfast go-to was the quiche. This one had chorizo. And we obviously had to get a couple chocolate croissants!",
   },
   "France2022-148.jpg": {
-    caption: "",
+    caption: "Little bit of shopping (no, Easton didn't buy the hat)",
   },
   "France2022-149.jpg": {
     caption: "",
@@ -465,7 +483,8 @@ var captions = {
     caption: "",
   },
   "France2022-155.jpg": {
-    caption: "",
+    caption:
+      "We wandered into a cheese shop and sampled some very tasty cheese. The cheese wheels were humongous! It was definitely all it was cracked up to be",
   },
   "France2022-156.jpg": {
     caption: "",
