@@ -23,7 +23,7 @@ body {
 }
 
 .title-container #title {
-  margin: 0;
+  margin: 5px 0 0 0;
   font-weight: 200;
   text-transform: uppercase;
   font-size: 30px;

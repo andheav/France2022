@@ -10,13 +10,14 @@ window.addEventListener(
     ) {
       e.preventDefault();
     }
+
+    keyPressed(e)
   },
   false
 );
 
 document.addEventListener("touchstart", handleTouchStart, false);
 document.addEventListener("touchmove", handleTouchMove, false);
-document.addEventListener("onkeydown", keyPressed, false);
 
 function startup() {
   if (localStorage.getItem("photoIndex")) {
@@ -24,8 +25,6 @@ function startup() {
   }
 
   updatePhoto();
-  updateCount();
-  updateCaption();
 }
 
 function nextPhoto() {
@@ -33,8 +32,6 @@ function nextPhoto() {
   localStorage.setItem("photoIndex", photoIndex);
 
   updatePhoto();
-  updateCount();
-  updateCaption();
 }
 
 function prevPhoto() {
@@ -42,8 +39,6 @@ function prevPhoto() {
   localStorage.setItem("photoIndex", photoIndex);
 
   updatePhoto();
-  updateCount();
-  updateCaption();
 }
 
 function updatePhoto() {
@@ -53,9 +48,16 @@ function updatePhoto() {
     photoIndex = 250;
   }
 
-  document
-    .getElementById("photo")
-    .setAttribute("src", "img/France2022-" + photoIndex + ".jpg");
+  const filename = "img/France2022-" + photoIndex + ".jpg";
+
+  var photo = document.getElementById("photo");
+  photo.onload = () => photoLoaded();
+  photo.setAttribute("src", filename);
+}
+
+function photoLoaded() {
+  updateCount();
+  updateCaption();
 }
 
 function updateCount() {
