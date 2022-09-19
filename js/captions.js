@@ -172,7 +172,7 @@ var captions = {
     caption: "(Day 2) View from our AirBnB the next morning",
   },
   "France2022-55.jpg": {
-    caption: "Flat white for Easton and dirty chair for Andrew",
+    caption: "Flat white for Easton and dirty chai for Andrew",
   },
   "France2022-56.jpg": {
     caption: "",
