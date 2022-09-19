@@ -130,11 +130,15 @@ button.arrow > img:hover {
   }
 
   .title-container {
-    margin: 0;
+    margin: 0 0 10px 0;
   }
 
   .photo-container {
     margin: 0;
+  }
+
+  .index-container {
+    margin: 10px 0 0 0;
   }
 
   .caption-container {
