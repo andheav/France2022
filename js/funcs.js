@@ -11,7 +11,7 @@ window.addEventListener(
       e.preventDefault();
     }
 
-    keyPressed(e)
+    keyPressed(e);
   },
   false
 );

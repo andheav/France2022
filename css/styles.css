@@ -4,7 +4,7 @@ body {
   font-family: Helvetica;
   margin: 0;
   padding: 0;
-  touch-action: none;
+  touch-action: pan-y;
 }
 
 .container {
@@ -96,6 +96,10 @@ button.arrow {
   border: none;
   background-color: inherit;
   cursor: pointer;
+}
+
+button.arrow:focus-visible {
+  outline: none;
 }
 
 button.arrow > img {
