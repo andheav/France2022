@@ -68,7 +68,7 @@ function updateCaption() {
   var currPhoto = "France2022-" + photoIndex + ".jpg";
   var caption = captions[currPhoto].caption;
 
-  document.getElementById("caption").innerText = caption;
+  document.getElementById("caption").innerHTML = caption;
 }
 
 function keyPressed(e) {
