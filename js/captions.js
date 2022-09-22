@@ -602,7 +602,7 @@ var captions = {
   },
   "France2022-191.jpg": {
     caption:
-      "Time for lunch! Easton made reservations at this really nice restaurant. This is course 1 of 3 (appetizers). Easton had the tomato soup with a cilantro lime sauce.",
+      "Time for lunch! Easton made reservations at this really nice restaurant. This is course 1 of 3 (appetizers). Easton had cold tomato soup with arugula pesto.",
   },
   "France2022-192.jpg": {
     caption:
@@ -610,7 +610,7 @@ var captions = {
   },
   "France2022-193.jpg": {
     caption:
-      "Course 2 of 3 (main dish). Easton had smolked salmon with carrots in a sauce.",
+      "Course 2 of 3 (main dish). Easton had smoked trout with carrots in a sauce.",
   },
   "France2022-194.jpg": {
     caption:
@@ -618,11 +618,11 @@ var captions = {
   },
   "France2022-195.jpg": {
     caption:
-      "For dessert, Easton had mint ice cream with homemade whipped cream and a pastry served in a caramel sauce. It was extremely good!",
+      "For dessert, Easton had mint ice cream with homemade whipped cream and an almond pastry served in a caramel sauce. It was extremely good!",
   },
   "France2022-196.jpg": {
     caption:
-      "Andrew got the cheese platter for dinner. These were two different regional cheeses. Andrew had to ask if he was supposed to eat the moldy rind (he was).",
+      "Andrew got the cheese platter for dinner. These were two different regional cheeses. He had to ask if he was supposed to eat the moldy rind (he was).",
   },
   "France2022-197.jpg": {
     caption:
@@ -710,7 +710,7 @@ var captions = {
     caption: "",
   },
   "France2022-224.jpg": {
-    caption: "Dinner time! We were pretty tired so we decided to cook tonight.",
+    caption: "Dinner time! We decided to cook our own meal tonight.",
   },
   "France2022-225.jpg": {
     caption: "",
@@ -786,13 +786,12 @@ var captions = {
     caption: "",
   },
   "France2022-248.jpg": {
-    caption: "Paris pre-departure!",
+    caption: "Waiting to board our flight back to Chicago!",
   },
   "France2022-249.jpg": {
     caption: "",
   },
   "France2022-250.jpg": {
-    caption:
-      "Thanks for following along on our first (and definitely not last) international trip together!",
+    caption: "Thanks for following along and au revoir!",
   },
 };
